@@ -7,3 +7,6 @@ main:
     name: Contact
     url: /contact
     weight: 200
+footer:
+  - identifier: blog
+    name: Blog

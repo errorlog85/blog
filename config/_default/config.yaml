@@ -1,7 +1,7 @@
 baseURL: https://blog-8j8.pages.dev/
 languageCode: en-us
 title: Acme Corporation
-theme: Eclectic
+theme: Universal
 enableEmoji: true
 enableGitInfo: true
 summaryLength: 50

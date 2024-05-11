@@ -24,6 +24,7 @@ menu:
     - identifier: lorem
       name: Lorem 
       url: /lorem
+      weight: 300
 params: 
   color: "#4f46e5"
   copyright: "Copyright &copy; 2022 Acme Corporation.

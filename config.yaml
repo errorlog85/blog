@@ -21,6 +21,9 @@ menu:
       name: Contact 
       url: /contact 
       weight: 200 
+    - identifier: lorem
+      name: Lorem 
+      url: /lorem
 params: 
   color: "#4f46e5"
   copyright: "Copyright &copy; 2022 Acme Corporation.
